@@ -1,16 +1,80 @@
-# Basic-to-Advance-AIML-
-📚 This repository documents my daily progress in mastering AI/ML and Generative AI. It includes hands-on implementations, mini-projects, and notes across Python, Data Analysis, Machine Learning, NLP, Deep Learning, Transformers, and LLM-based applications.
- 
- Welcome to Your GenAI Learning Journey! 🚀
-Great choice! This roadmap is actually very well structured. Let me break it down in the simplest possible way, like I'm explaining it to a complete beginner.
+# 🚀 Basic-to-Advance-AIML
 
-🗺️ The Big Picture (What You're Going to Build Toward)
+📌 **Daily journey to master AI/ML & Generative AI**
 
-Think of it like building a house:
+---
 
-Phase      What it is              House Analogy 
+## 📖 About This Repository
 
-Phase 0    Python + Math           🧱 The foundation
-Phase 1    Classic ML & NLP        🏠 The walls
-Phase 2    Deep Learning           🪟 Doors & windows
-Phase 3    Generative AI           🏡 The fully furnished home
+This repository documents my **daily progress** in learning:
+
+* Python 🐍
+* Data Analysis 📊
+* Machine Learning 🤖
+* Deep Learning 🧠
+* NLP 🗣️
+* Transformers & LLMs ⚡
+
+It includes:
+
+* ✅ Notes
+* ✅ Code implementations
+* ✅ Mini projects
+
+---
+
+## 🛤️ Learning Roadmap
+
+### 🔰 Phase 0 — Foundation
+
+* Python Basics
+* Data Manipulation (NumPy, Pandas)
+* Math (Linear Algebra, Probability)
+
+### 📊 Phase 1 — Machine Learning & NLP
+
+* Regression & Classification
+* NLP Basics
+* Sequence Models
+
+### 🧠 Phase 2 — Deep Learning
+
+* Neural Networks
+* Transformers
+* PyTorch & HuggingFace
+
+### 🚀 Phase 3 — Generative AI
+
+* Prompt Engineering
+* RAG (Retrieval Augmented Generation)
+* AI Agents
+* Fine-tuning LLMs
+
+---
+
+## 📅 Daily Progress
+
+| Day    | Topic                       | Link                        |
+| ------ | --------------------------- | --------------------------- |
+| Day 01 | Python Basics + Data + Math | [View](./Phase-0/Day-01.md) |
+| Day 02 | Coming Soon                 | -                           |
+
+---
+
+## 🎯 Goal
+
+To become a skilled **AI/ML Engineer & GenAI Developer** by building real-world projects and maintaining consistency.
+
+---
+
+## 💡 Highlights
+
+* 📅 Daily GitHub commits
+* 💻 Hands-on learning
+* 🚀 Project-based approach
+
+---
+
+## ⭐ Let's Connect
+
+If you like this repo, give it a ⭐ and follow my journey!
