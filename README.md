@@ -57,7 +57,7 @@ It includes:
 | Day    | Topic                       | Link                        |
 | ------ | --------------------------- | --------------------------- |
 | Day 01 | Python Basics + Data + Math | [View](./Phase-0/Day-01.md) |
-| Day 02 | Coming Soon                 | -                           |
+| Day 02 | Coming Soon                 | -      day-02.md                     |
 
 ---
 
